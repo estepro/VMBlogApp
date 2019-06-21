@@ -23,7 +23,7 @@ Unfinished Tasks:
 ### To Download:
 
 ```
-https://github.com/estepro/VMBlogApp.git
+git clone https://github.com/estepro/VMBlogApp.git
 ```
 
 Then:
